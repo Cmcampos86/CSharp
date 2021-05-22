@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Array\bin\Debug\Sample_Array.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Array\bin\Debug\Sample_Array.exe
+C:\Fontes\BackEnd\CSharp\Sample_Array\bin\Debug\Sample_Array.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.exe
+C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.pdb

@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Exception\bin\Debug\Sample_Exception.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Exception\bin\Debug\Sample_Exception.exe
+C:\Fontes\BackEnd\CSharp\Sample_Exception\bin\Debug\Sample_Exception.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Exception\obj\Debug\Sample_Exception.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Exception\obj\Debug\Sample_Exception.exe
+C:\Fontes\BackEnd\CSharp\Sample_Exception\obj\Debug\Sample_Exception.pdb

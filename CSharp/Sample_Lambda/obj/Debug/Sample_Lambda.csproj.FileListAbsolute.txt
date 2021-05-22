@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\bin\Debug\Sample_Lambda.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\bin\Debug\Sample_Lambda.exe
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\bin\Debug\Sample_Lambda.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\obj\Debug\Sample_Lambda.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\obj\Debug\Sample_Lambda.exe
+C:\Fontes\BackEnd\CSharp\Sample_Lambda\obj\Debug\Sample_Lambda.pdb

@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Interface\bin\Debug\Sample_Interface.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Interface\bin\Debug\Sample_Interface.exe
+C:\Fontes\BackEnd\CSharp\Sample_Interface\bin\Debug\Sample_Interface.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Interface\obj\Debug\Sample_Interface.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Interface\obj\Debug\Sample_Interface.exe
+C:\Fontes\BackEnd\CSharp\Sample_Interface\obj\Debug\Sample_Interface.pdb

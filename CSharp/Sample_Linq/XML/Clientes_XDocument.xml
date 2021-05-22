@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Criando XML via LINQ to XML - XDocument-->
+<clientes>
+  <cliente codigo="1">
+    <nome>João</nome>
+    <email>joao@gmail.com</email>
+  </cliente>
+  <cliente codigo="2">
+    <nome>Maria</nome>
+    <email>Maria@gmail.com</email>
+  </cliente>
+</clientes>

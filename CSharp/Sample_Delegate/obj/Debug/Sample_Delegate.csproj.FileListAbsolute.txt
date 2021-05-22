@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\bin\Debug\Sample_Delegate.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\bin\Debug\Sample_Delegate.exe
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\bin\Debug\Sample_Delegate.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\obj\Debug\Sample_Delegate.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\obj\Debug\Sample_Delegate.exe
+C:\Fontes\BackEnd\CSharp\Sample_Delegate\obj\Debug\Sample_Delegate.pdb

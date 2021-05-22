@@ -1,0 +1,7 @@
+C:\Fontes\BackEnd\CSharp\Sample_Linq\bin\Debug\Sample_Linq.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Linq\bin\Debug\Sample_Linq.exe
+C:\Fontes\BackEnd\CSharp\Sample_Linq\bin\Debug\Sample_Linq.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Linq\obj\Debug\Sample_Linq.csprojAssemblyReference.cache
+C:\Fontes\BackEnd\CSharp\Sample_Linq\obj\Debug\Sample_Linq.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Linq\obj\Debug\Sample_Linq.exe
+C:\Fontes\BackEnd\CSharp\Sample_Linq\obj\Debug\Sample_Linq.pdb

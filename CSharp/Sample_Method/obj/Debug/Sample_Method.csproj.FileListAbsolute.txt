@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Method\bin\Debug\Sample_Method.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Method\bin\Debug\Sample_Method.exe
+C:\Fontes\BackEnd\CSharp\Sample_Method\bin\Debug\Sample_Method.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.exe
+C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.pdb

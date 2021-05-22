@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Struct\bin\Debug\Sample_Struct.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Struct\bin\Debug\Sample_Struct.exe
+C:\Fontes\BackEnd\CSharp\Sample_Struct\bin\Debug\Sample_Struct.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Struct\obj\Debug\Sample_Struct.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Struct\obj\Debug\Sample_Struct.exe
+C:\Fontes\BackEnd\CSharp\Sample_Struct\obj\Debug\Sample_Struct.pdb

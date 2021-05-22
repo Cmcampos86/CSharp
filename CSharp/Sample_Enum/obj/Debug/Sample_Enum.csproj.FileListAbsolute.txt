@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_Enum\bin\Debug\Sample_Enum.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Enum\bin\Debug\Sample_Enum.exe
+C:\Fontes\BackEnd\CSharp\Sample_Enum\bin\Debug\Sample_Enum.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Enum\obj\Debug\Sample_Enum.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Enum\obj\Debug\Sample_Enum.exe
+C:\Fontes\BackEnd\CSharp\Sample_Enum\obj\Debug\Sample_Enum.pdb

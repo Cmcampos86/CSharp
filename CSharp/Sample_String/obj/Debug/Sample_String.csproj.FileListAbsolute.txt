@@ -1,0 +1,6 @@
+C:\Fontes\BackEnd\CSharp\Sample_String\bin\Debug\Sample_String.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_String\bin\Debug\Sample_String.exe
+C:\Fontes\BackEnd\CSharp\Sample_String\bin\Debug\Sample_String.pdb
+C:\Fontes\BackEnd\CSharp\Sample_String\obj\Debug\Sample_String.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_String\obj\Debug\Sample_String.exe
+C:\Fontes\BackEnd\CSharp\Sample_String\obj\Debug\Sample_String.pdb

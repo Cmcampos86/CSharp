@@ -1,0 +1,7 @@
+C:\Fontes\BackEnd\CSharp\Sample_Collection\bin\Debug\Sample_Collection.exe.config
+C:\Fontes\BackEnd\CSharp\Sample_Collection\bin\Debug\Sample_Collection.exe
+C:\Fontes\BackEnd\CSharp\Sample_Collection\bin\Debug\Sample_Collection.pdb
+C:\Fontes\BackEnd\CSharp\Sample_Collection\obj\Debug\Sample_Collection.csprojAssemblyReference.cache
+C:\Fontes\BackEnd\CSharp\Sample_Collection\obj\Debug\Sample_Collection.csproj.CoreCompileInputs.cache
+C:\Fontes\BackEnd\CSharp\Sample_Collection\obj\Debug\Sample_Collection.exe
+C:\Fontes\BackEnd\CSharp\Sample_Collection\obj\Debug\Sample_Collection.pdb
