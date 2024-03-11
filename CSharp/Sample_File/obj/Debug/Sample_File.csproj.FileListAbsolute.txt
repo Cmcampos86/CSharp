@@ -10,3 +10,15 @@ C:\Fontes\BackEnd\CSharp\Sample_File\obj\Debug\Sample_File.csproj.CoreCompileInp
 C:\Fontes\BackEnd\CSharp\Sample_File\obj\Debug\Sample_File.csproj.CopyComplete
 C:\Fontes\BackEnd\CSharp\Sample_File\obj\Debug\Sample_File.exe
 C:\Fontes\BackEnd\CSharp\Sample_File\obj\Debug\Sample_File.pdb
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\Sample_File.exe.config
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\Sample_File.exe
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\Sample_File.pdb
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\itextsharp.dll
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\itextsharp.xml
+C:\Workspace\CSharp\CSharp\Sample_File\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\CSharp\CSharp\Sample_File\obj\Debug\Sample_File.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\CSharp\Sample_File\obj\Debug\Sample_File.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_File\obj\Debug\Sample_File.csproj.CopyComplete
+C:\Workspace\CSharp\CSharp\Sample_File\obj\Debug\Sample_File.exe
+C:\Workspace\CSharp\CSharp\Sample_File\obj\Debug\Sample_File.pdb

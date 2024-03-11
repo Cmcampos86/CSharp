@@ -9,3 +9,14 @@ C:\Fontes\BackEnd\CSharp\Sample_Class\obj\Debug\Sample_Class.csproj.CoreCompileI
 C:\Fontes\BackEnd\CSharp\Sample_Class\obj\Debug\Sample_Class.csproj.CopyComplete
 C:\Fontes\BackEnd\CSharp\Sample_Class\obj\Debug\Sample_Class.exe
 C:\Fontes\BackEnd\CSharp\Sample_Class\obj\Debug\Sample_Class.pdb
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\Sample_Class.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\Sample_Class.exe
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\Sample_Class.pdb
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\AutoMapper.dll
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\AutoMapper.pdb
+C:\Workspace\CSharp\CSharp\Sample_Class\bin\Debug\AutoMapper.xml
+C:\Workspace\CSharp\CSharp\Sample_Class\obj\Debug\Sample_Class.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\CSharp\Sample_Class\obj\Debug\Sample_Class.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Class\obj\Debug\Sample_Class.csproj.CopyComplete
+C:\Workspace\CSharp\CSharp\Sample_Class\obj\Debug\Sample_Class.exe
+C:\Workspace\CSharp\CSharp\Sample_Class\obj\Debug\Sample_Class.pdb

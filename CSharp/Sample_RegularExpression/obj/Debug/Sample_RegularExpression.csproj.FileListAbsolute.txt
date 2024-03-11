@@ -4,3 +4,9 @@ C:\Fontes\BackEnd\CSharp\Sample_RegularExpression\bin\Debug\Sample_RegularExpres
 C:\Fontes\BackEnd\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.exe
 C:\Fontes\BackEnd\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.pdb
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\bin\Debug\Sample_RegularExpression.exe.config
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\bin\Debug\Sample_RegularExpression.exe
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\bin\Debug\Sample_RegularExpression.pdb
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.exe
+C:\Workspace\CSharp\CSharp\Sample_RegularExpression\obj\Debug\Sample_RegularExpression.pdb

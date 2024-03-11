@@ -4,3 +4,9 @@ C:\Fontes\BackEnd\CSharp\Sample_Statement\bin\Debug\Sample_Statement.pdb
 C:\Fontes\BackEnd\CSharp\Sample_Statement\obj\Debug\Sample_Statement.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Statement\obj\Debug\Sample_Statement.exe
 C:\Fontes\BackEnd\CSharp\Sample_Statement\obj\Debug\Sample_Statement.pdb
+C:\Workspace\CSharp\CSharp\Sample_Statement\bin\Debug\Sample_Statement.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Statement\bin\Debug\Sample_Statement.exe
+C:\Workspace\CSharp\CSharp\Sample_Statement\bin\Debug\Sample_Statement.pdb
+C:\Workspace\CSharp\CSharp\Sample_Statement\obj\Debug\Sample_Statement.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Statement\obj\Debug\Sample_Statement.exe
+C:\Workspace\CSharp\CSharp\Sample_Statement\obj\Debug\Sample_Statement.pdb

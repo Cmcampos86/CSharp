@@ -4,3 +4,9 @@ C:\Fontes\BackEnd\CSharp\Sample_Reflection\bin\Debug\Sample_Reflection.pdb
 C:\Fontes\BackEnd\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.exe
 C:\Fontes\BackEnd\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.pdb
+C:\Workspace\CSharp\CSharp\Sample_Reflection\bin\Debug\Sample_Reflection.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Reflection\bin\Debug\Sample_Reflection.exe
+C:\Workspace\CSharp\CSharp\Sample_Reflection\bin\Debug\Sample_Reflection.pdb
+C:\Workspace\CSharp\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.exe
+C:\Workspace\CSharp\CSharp\Sample_Reflection\obj\Debug\Sample_Reflection.pdb

@@ -4,3 +4,9 @@ C:\Fontes\BackEnd\CSharp\Sample_Method\bin\Debug\Sample_Method.pdb
 C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.exe
 C:\Fontes\BackEnd\CSharp\Sample_Method\obj\Debug\Sample_Method.pdb
+C:\Workspace\CSharp\CSharp\Sample_Method\bin\Debug\Sample_Method.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Method\bin\Debug\Sample_Method.exe
+C:\Workspace\CSharp\CSharp\Sample_Method\bin\Debug\Sample_Method.pdb
+C:\Workspace\CSharp\CSharp\Sample_Method\obj\Debug\Sample_Method.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Method\obj\Debug\Sample_Method.exe
+C:\Workspace\CSharp\CSharp\Sample_Method\obj\Debug\Sample_Method.pdb

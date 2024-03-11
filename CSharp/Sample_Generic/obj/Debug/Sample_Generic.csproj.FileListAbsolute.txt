@@ -5,3 +5,9 @@ C:\Fontes\BackEnd\CSharp\Sample_Generic\obj\Debug\Sample_Generic.csprojAssemblyR
 C:\Fontes\BackEnd\CSharp\Sample_Generic\obj\Debug\Sample_Generic.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Generic\obj\Debug\Sample_Generic.exe
 C:\Fontes\BackEnd\CSharp\Sample_Generic\obj\Debug\Sample_Generic.pdb
+C:\Workspace\CSharp\CSharp\Sample_Generic\bin\Debug\Sample_Generic.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Generic\bin\Debug\Sample_Generic.exe
+C:\Workspace\CSharp\CSharp\Sample_Generic\bin\Debug\Sample_Generic.pdb
+C:\Workspace\CSharp\CSharp\Sample_Generic\obj\Debug\Sample_Generic.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Generic\obj\Debug\Sample_Generic.exe
+C:\Workspace\CSharp\CSharp\Sample_Generic\obj\Debug\Sample_Generic.pdb

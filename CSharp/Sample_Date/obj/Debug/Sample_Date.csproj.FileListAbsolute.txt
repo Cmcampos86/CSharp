@@ -5,3 +5,10 @@ C:\Fontes\BackEnd\CSharp\Sample_Date\obj\Debug\Sample_Date.csprojAssemblyReferen
 C:\Fontes\BackEnd\CSharp\Sample_Date\obj\Debug\Sample_Date.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Date\obj\Debug\Sample_Date.exe
 C:\Fontes\BackEnd\CSharp\Sample_Date\obj\Debug\Sample_Date.pdb
+C:\Workspace\CSharp\CSharp\Sample_Date\bin\Debug\Sample_Date.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Date\bin\Debug\Sample_Date.exe
+C:\Workspace\CSharp\CSharp\Sample_Date\bin\Debug\Sample_Date.pdb
+C:\Workspace\CSharp\CSharp\Sample_Date\obj\Debug\Sample_Date.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\CSharp\Sample_Date\obj\Debug\Sample_Date.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Date\obj\Debug\Sample_Date.exe
+C:\Workspace\CSharp\CSharp\Sample_Date\obj\Debug\Sample_Date.pdb

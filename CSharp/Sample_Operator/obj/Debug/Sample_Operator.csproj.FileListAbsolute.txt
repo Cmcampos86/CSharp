@@ -4,3 +4,9 @@ C:\Fontes\BackEnd\CSharp\Sample_Operator\bin\Debug\Sample_Operator.pdb
 C:\Fontes\BackEnd\CSharp\Sample_Operator\obj\Debug\Sample_Operator.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Operator\obj\Debug\Sample_Operator.exe
 C:\Fontes\BackEnd\CSharp\Sample_Operator\obj\Debug\Sample_Operator.pdb
+C:\Workspace\CSharp\CSharp\Sample_Operator\bin\Debug\Sample_Operator.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Operator\bin\Debug\Sample_Operator.exe
+C:\Workspace\CSharp\CSharp\Sample_Operator\bin\Debug\Sample_Operator.pdb
+C:\Workspace\CSharp\CSharp\Sample_Operator\obj\Debug\Sample_Operator.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Operator\obj\Debug\Sample_Operator.exe
+C:\Workspace\CSharp\CSharp\Sample_Operator\obj\Debug\Sample_Operator.pdb

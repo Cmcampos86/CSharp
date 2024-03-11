@@ -4,3 +4,10 @@ C:\Fontes\BackEnd\CSharp\Sample_Array\bin\Debug\Sample_Array.pdb
 C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.csproj.CoreCompileInputs.cache
 C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.exe
 C:\Fontes\BackEnd\CSharp\Sample_Array\obj\Debug\Sample_Array.pdb
+C:\Workspace\CSharp\CSharp\Sample_Array\bin\Debug\Sample_Array.exe.config
+C:\Workspace\CSharp\CSharp\Sample_Array\bin\Debug\Sample_Array.exe
+C:\Workspace\CSharp\CSharp\Sample_Array\bin\Debug\Sample_Array.pdb
+C:\Workspace\CSharp\CSharp\Sample_Array\obj\Debug\Sample_Array.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\CSharp\Sample_Array\obj\Debug\Sample_Array.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\CSharp\Sample_Array\obj\Debug\Sample_Array.exe
+C:\Workspace\CSharp\CSharp\Sample_Array\obj\Debug\Sample_Array.pdb

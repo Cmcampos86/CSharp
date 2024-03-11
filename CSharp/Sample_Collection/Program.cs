@@ -82,5 +82,25 @@ namespace Sample_Collection
         }
 
         #endregion
+
+        #region Dictionary
+
+        public static void Dictionary()
+        {
+            //var dicionario = new Dictionary<int, string>();
+            var dicionario = new Dictionary<int, string>()
+            {
+                {5, "Teste"},
+                {6, "Teste 6"}
+            };
+
+            dicionario.Add(1, "Claudio");
+            dicionario[50] = "Curso"; //Outra forma de adicionar um valor ao dicionário
+
+            var nome = dicionario[1]; //Utiliza a key para buscar o valor
+        }
+
+        #endregion
+
     }
 }
