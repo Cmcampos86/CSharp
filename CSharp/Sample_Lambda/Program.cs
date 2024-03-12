@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace Sample_Lambda
+﻿namespace Sample_Lambda
 {
     internal class Program
     {

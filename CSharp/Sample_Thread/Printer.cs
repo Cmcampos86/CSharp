@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace Sample_Thread
+﻿namespace Sample_Thread
 {
     public class Printer
     {
@@ -44,6 +37,5 @@ namespace Sample_Thread
                 Monitor.Exit(this);
             }
         }
-
     }
 }

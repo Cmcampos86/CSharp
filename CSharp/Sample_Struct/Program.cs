@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Sample_Struct
+﻿namespace Sample_Struct
 {
     class Program
     {
@@ -22,8 +16,6 @@ namespace Sample_Struct
             //Não pode conter métodos como protected
             //As estruturas nunca são finalizadas no sentido do garbage colector ser executado
             //Todos os elementos da struct são public por padrão
-
-
         }
 
         #region Structs

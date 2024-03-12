@@ -1,13 +1,8 @@
 ﻿using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 
 namespace Sample_File
@@ -67,9 +62,9 @@ namespace Sample_File
         {
             try
             {
-                StreamReader rd = new StreamReader(@"C:\Fontes\BackEnd\CSharp\Sample_File\Files\FileDelimited\C2ImportGroupsSample.csv");
-                string linha = null;
-                string[] linhaseparada = null;
+                StreamReader rd = new(@"C:\Fontes\BackEnd\CSharp\Sample_File\Files\FileDelimited\C2ImportGroupsSample.csv");
+                string? linha = null;
+                string[]? linhaseparada = null;
 
                 while ((linha = rd.ReadLine()) != null)
                 {
@@ -90,9 +85,9 @@ namespace Sample_File
 
         public static string LerArquivoPDF(string path)
         {
-            using (PdfReader reader = new PdfReader(path))
+            using (PdfReader reader = new(path))
             {
-                StringBuilder text = new StringBuilder();
+                StringBuilder text = new();
 
                 for (int i = 1; i < reader.NumberOfPages; i++)
                     text.Append(PdfTextExtractor.GetTextFromPage(reader, i));

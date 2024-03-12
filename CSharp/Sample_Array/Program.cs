@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Sample_Array
+﻿namespace Sample_Array
 {
     internal class Program
     {
