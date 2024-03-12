@@ -4,6 +4,9 @@ namespace Sample_Class
 {
     class Program
     {
+        //Id e Descricao é considerado como propriedades de Curso
+        public record Curso(int Id, string Descricao);
+
         static void Main(string[] args)
         {
             //Encapsulamento: significa que um grupo de propriedades, métodos e outros membros relacionados é tratado 
@@ -20,7 +23,8 @@ namespace Sample_Class
             //private: Só permite acesso dentro do corpo da classe
             //protected internal: Pode ser acessado por todos membros do assembly e/ou por membros derivados
 
-            AutoMapper();
+            ////AutoMapper();
+            Record();
 
             Console.ReadKey();
         }
@@ -215,6 +219,27 @@ namespace Sample_Class
             IMapper iMapper = config.CreateMapper();
 
             AutoMapper.Entidades.AlunoViewItem _alunoViewItem = iMapper.Map<AutoMapper.Entidades.Aluno, AutoMapper.Entidades.AlunoViewItem>(aluno);
+        }
+
+        #endregion
+
+        #region Record
+
+        private static void Record()
+        {
+            //Semelhante a classe
+            //O Record compara os valores da instância e não a instância
+
+            var curso1 = new Curso(1, "Curso");
+            //var curso2 = new Curso(1, "Curso");
+
+            //Implicando o valor de curso1 em curso2 vai deixar a Descricao igual a "Curso" uma vez que os valores apontam para o mesmo endereço de memória.
+            //Se usar o with, eu indico que a Descrição será outro valor e assim cada instância tera o seu valor 
+            var curso2 = curso1 with { Descricao = "Teste Novo" };
+
+            Console.WriteLine(curso1.Descricao);
+            Console.WriteLine(curso2.Descricao);
+            //Console.WriteLine(curso1 == curso2);
         }
 
         #endregion
