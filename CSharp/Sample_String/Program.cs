@@ -7,6 +7,8 @@ namespace Sample_String
         static void Main(string[] args)
         {
             // Method intentionally left empty.
+
+            Range();
         }
 
         #region Contains
@@ -101,6 +103,25 @@ namespace Sample_String
             Console.WriteLine(a);
             Console.WriteLine(b);
             Console.WriteLine(c);
+        }
+
+        #endregion
+
+        #region Range
+
+        public static void Range()
+        {
+            string nomeArquivo = "2022_12_01_backup.bak";
+
+            string ano = nomeArquivo[..4]; //Vai pegar os 4 primeiros caracteres
+            string extensao = nomeArquivo[^3..]; //Vai pegar os últimos 3 caracteres
+            string nome = nomeArquivo[11..^4]; //Vai pegar a partir da posição 11 eliminando os 4 últimos caracteres
+            string apenasNome = nomeArquivo[11..^4]; //Vai pegar tudo eliminando os 4 últimos caracteres
+
+            Console.WriteLine(ano);
+            Console.WriteLine(extensao);
+            Console.WriteLine(nome);
+            Console.WriteLine(apenasNome);
         }
 
         #endregion
