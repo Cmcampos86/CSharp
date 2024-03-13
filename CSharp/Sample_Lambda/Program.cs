@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            LambdaDelegate();
+            LambdaTake();
 
             Console.ReadKey();
         }
@@ -91,6 +91,51 @@
             Console.WriteLine(verificaNome(new Aluno() { Id = 25, Nome = "João" }));
             Console.WriteLine(verificaNome(new Aluno() { Id = 35, Nome = "José" }));
             Console.WriteLine(verificaNome(new Aluno() { Id = 20, Nome = "Maria" }));
+        }
+
+        #endregion
+
+        #region LambdaTake
+
+        public static void LambdaTake()
+        {
+            var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
+
+            //Take: quantidade de elementos que queremos pegar na coleção
+            var resultado = numeros.Where(p => p > 10).Take(3).OrderBy(p => p);
+
+            foreach (var numero in resultado)
+            {
+                Console.WriteLine(numero);
+            }
+        }
+
+        #endregion
+
+        #region LambdaCount
+
+        public static void LambdaCount()
+        {
+            var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
+
+            var resultado = numeros.Count(p => p > 10);
+
+            Console.WriteLine(resultado);
+        }
+
+        #endregion
+
+        #region LambdaFirstEFirstOrDefault
+
+        public static void LambdaFirstEFirstOrDefault()
+        {
+            var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
+
+            //var resultado = numeros.First();
+            //var resultado = numeros.First(p => p > 100);
+            var resultado = numeros.FirstOrDefault(p => p > 100, -99);
+
+            Console.WriteLine(resultado);
         }
 
         #endregion

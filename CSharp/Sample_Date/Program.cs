@@ -65,16 +65,5 @@ namespace Sample_Date
         }
 
         #endregion
-
-        #region DateOnly
-
-        public static void DateOnly()
-        {
-            //DateOnly someDate = new DateOnly(2024, 3, 12);
-            //var somenteData = DateOnly.
-        }
-
-        #endregion
-
     }
 }
